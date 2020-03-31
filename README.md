@@ -625,7 +625,7 @@ Terraform will perform the following actions:
       - id          = "sshkeyt" -> null
       - key_name    = "sshkeyt" -> null
       - key_pair_id = "key-094f138411cabb2c6" -> null
-      - public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDwNYRwR5CZrOgjhy2RtrJB5Dx6S0XiWxrCRou+yMQ2jcHdBgHqNv/9quUztiyZLwl/tH4fYhfyYVzQO4Pw4tTU2XNiOSHW2yE6Ht6lIH54lM+MbU+MsHQOSAV72lcCXZ0DyJ/Kbt0MUkFZQtooltCkoYn1mOCLYxrx5BmC7E5nW1G3X5RDvpT5gPV2OjxEITxC04X+cXz/A5lL2pb1010XtpeAMHJT4gxFiI1s8VLwrD2vx2DO296yWibeLE9qWQC7YxeRv1VrMF+qirJc3yP74l736DNah8QRvdSv6AUNOesrAgpFO5UP9MQW861db/QwNxsI28VO0hrEoN+WPw1r ec2-user@ip-172-31-82-119" -> null
+      - public_key  = "ssh-rsa B3NzaC1yc2EAAAADAQABAAABAQDwNYRwR5CZrOgjhy2RtrJB5Dx6S0XiWxrCRou+yMQ2jcHdBgHqNv/9quUztiyZLwl/tH4fYhfyYVzQO4Pw4tTU2XNiOSHW2yE6Ht6lIH54lM+MbU+MsHQOSAV72lcCXZ0DyJ/Kbt0MUkFZQtooltCkoYn1mOCLYxrx5BmC7E5nW1G3X5RDvpT5gPV2OjxEITxC04X+cXz/A5lL2pb1010XtpeAMHJT4gxFiI1s8VLwrD2vx2DO296yWibeLE9qWQC7YxeRv1VrMF+qirJc3yP74l736DNah8QRvdSv6AUNOesrAgpFO5UP9MQW861db/QwNxsI28VO0hrEoN+WPw1r ec2-user@ip-172-31-82-119" -> null
       - tags        = {} -> null
     }
 
